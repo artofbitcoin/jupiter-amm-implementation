@@ -1,3 +1,7 @@
+## Parcours français
+
+Ce dépôt est accompagné d un parcours pédagogique en français dans [docs/fr/](./docs/fr/), consacré aux interfaces AMM de Jupiter, à la cotation et aux snapshots reproductibles.
+
 # Jupiter Amm Implementation
 
 This is a guide to help create the implementation necessary
